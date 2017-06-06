@@ -1,8 +1,8 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
+
 
 # UX201 User Research 
 
-Slides and materials are hosted at [http://github.io/gdiboulder/gdi-boulder-user-research](http://github.io/diboulder/gdi-boulder-user-research).
+Slides and materials are hosted at [https://gdiboulder.github.io/gdi-boulder-user-research/#/](https://gdiboulder.github.io/gdi-boulder-user-research/#/).
 
 ## Course description
 
